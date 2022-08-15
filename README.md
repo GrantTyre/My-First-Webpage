@@ -52,12 +52,10 @@
         <li>Item 2</li>
         <li>Item 3</li>
     </ol>
-  </body>
-  <body>
+  
     <h3>Practicing URL Links</h3>
     <a href="https://www.theodinproject.com/about">Click me</a>
-  </body>
-  <body>
+ 
     <h1>Homepage</h1>
       <a href="https://www.theodinproject.com/about">click me</a>
   
